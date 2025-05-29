@@ -47,6 +47,7 @@ hii
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamd2a/My_leetcode_Solutation/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/shivamd2a/My_leetcode_Solutation/tree/master/0006-zigzag-conversion) |
 ## Dynamic Programming
 |  |
 | ------- |
