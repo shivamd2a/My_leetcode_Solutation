@@ -39,4 +39,16 @@ hii
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamd2a/My_leetcode_Solutation/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamd2a/My_leetcode_Solutation/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamd2a/My_leetcode_Solutation/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamd2a/My_leetcode_Solutation/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
